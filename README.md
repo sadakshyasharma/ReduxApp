@@ -1,1 +1,1 @@
-# ReduxApp
+# Calculator
